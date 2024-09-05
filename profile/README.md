@@ -17,7 +17,7 @@ QVE is a yield optimization platform specifically designed for the XRPL ecosyste
 - Created using React JS
 - [Visit Frontend Repo](https://github.com/Ripple-QVE/Ripple-QVE_frontend)
 ### Backend
-- 
+- [Visit Backend Repo](https://github.com/Ripple-QVE/Ripple-QVE_backend)
 ### Server
 - **In progress**
 - Server part of the project, contains a Telegram bot.
